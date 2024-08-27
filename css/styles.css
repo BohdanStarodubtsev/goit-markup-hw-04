@@ -393,11 +393,11 @@ align-items: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
  }
 
-.team-list-img:hover {
-  background-color: #404BBF;
+.ourteam-items:hover {
+  background-color: #404bbf;
 }
 
-.team-list-img:focus {
+.ourteam-items:focus {
   background-color: #404bbf;
 }
 

@@ -363,15 +363,15 @@ align-items: center;
 }
 
 .team-list {
-display: flex;
-gap: 24px;
-align-items: center;
-padding-left: 0; margin: 0;
+  display: flex;
+  gap: 24px;
 }
 
-.team-list-img-div {
-  display: inline-flex;
-  gap: 24px;
+.team-list-img-ul {
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
 }
 
 .footer-img-li {
@@ -428,6 +428,8 @@ background-color: #404BBF;
 }
 .div-team {
   padding: 32px 0;
+    text-align: center;
+     background: #fff;
 }
 
 
